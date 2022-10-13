@@ -2,7 +2,7 @@
 
 
 ## Overall Architecture:
-
+![Plateform Architecture](https://github.com/Nhaila-Abdessamad/KPLR-CONSOLE-Breakthrough/blob/main/img/Plat-Archi-Global-Arch.drawio.png)
 
 ## AWS Lambda Functions:
 
